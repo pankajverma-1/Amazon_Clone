@@ -1,9 +1,10 @@
 {
     "name": "server",
     "version": "1.0.0",
-    "description": "",
+    "description": "a really cool app",
     "engines": {
-        "node": "18.8.0"
+        "node": "18.8.0",
+        "npm": "8.18.0"
     },
     "main": "index.js",
     "scripts": {
